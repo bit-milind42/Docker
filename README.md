@@ -264,7 +264,7 @@ docker compose logs     # View logs
 <div align="center">
 
 ### 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/docker-notes/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/bit-milind42/Docker/issues).
 
 ### 📝 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
