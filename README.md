@@ -8,8 +8,6 @@
 
 *A comprehensive quick reference guide for Docker commands and concepts*
 
-[![Stars](https://img.shields.io/github/stars/yourusername/docker-notes?style=social)](https://github.com/bit-milind42/Docker/stargazers)
-[![Forks](https://img.shields.io/github/forks/yourusername/docker-notes?style=social)](https://github.com/bit-milind42/Docker/network/members)
 
 </div>
 
