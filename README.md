@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 ![Status](https://img.shields.io/badge/Status-Maintained-brightgreen?style=for-the-badge)
 
 *A comprehensive quick reference guide for Docker commands and concepts*
@@ -266,9 +266,11 @@ docker compose logs     # View logs
 <div align="center">
 
 ### 🤝 Contributing
-Contributions, issues, and feature requests are welcome!
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/docker-notes/issues).
 
 ### 📝 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 </div> 
